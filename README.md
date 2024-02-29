@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw39cUoK8jq3aZiFfAWR6vLy&ust=1709308177108000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOig0qjz0IQDFQAAAAAdAAAAABAE)](https://Goutham-H-A.io)
 <h1 align="center">Hi 👋, I'm Goutham H A</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>

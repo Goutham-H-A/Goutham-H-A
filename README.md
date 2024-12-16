@@ -14,10 +14,12 @@
 
 <p align="left">
   <h3 align="left">Connect with me:</h3>
-<h1>
+<h3>
   <a href="https://www.linkedin.com/in/goutham-h-a-328446228/" target="_blank">LinkedIn</a>
-   <a href="https://x.com/goutham_h_a" target="_blank">X(Twitter)</a>
-</h1>
+</h3>
+  <h3>
+  <a href="https://x.com/goutham_h_a" target="_blank">X(Twitter)</a>
+  </h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

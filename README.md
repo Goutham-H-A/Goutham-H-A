@@ -11,8 +11,13 @@
 
 - 📫 How to reach me **gouthamubaley15@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
+  <h3 align="left">Connect with me:</h3>
+<h1>
+  <a href="https://www.linkedin.com/in/goutham-h-a-328446228/" target="_blank">LinkedIn</a>
+   <a href="https://x.com/goutham_h_a" target="_blank">X(Twitter)</a>
+</h1>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
